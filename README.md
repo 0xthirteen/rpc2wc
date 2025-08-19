@@ -1,6 +1,6 @@
 # RPC to WebClient
 
-The information for this code can be found at [this blog post](). Recommend reading before attempting to use anything here.
+The information for this code can be found at [this blog post](https://specterops.io/blog/2025/08/19/will-webclient-start/). Recommend reading before attempting to use anything here.
 
 Code for triggering WebClient through an RPC call. Since it did not end up panning out the code was never very cleaned up and very much remained in a proof of concept state. 
 

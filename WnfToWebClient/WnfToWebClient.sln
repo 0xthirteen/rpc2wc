@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WnfToWebClient", "WnfToWebClient\WnfToWebClient.csproj", "{DA62BD0E-8D3D-4F36-B82E-145F387A792A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA62BD0E-8D3D-4F36-B82E-145F387A792A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA62BD0E-8D3D-4F36-B82E-145F387A792A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA62BD0E-8D3D-4F36-B82E-145F387A792A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA62BD0E-8D3D-4F36-B82E-145F387A792A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A826A7B-2532-4B34-BBBE-D8EEC8D90FF2}
+	EndGlobalSection
+EndGlobal
